@@ -1,12 +1,14 @@
 # Oracle-Based Inventory and Sales Management System (OISMS)
 
+
+
+
 ## Authors
 - Chan Tin Yik 
 - Christian Nyamekye 
 - Daniel Gakpetor 
 
-## Video Demonstration
-[Video Demonstration]
+
 ## Project Structure
 
 ### Library Dependencies
@@ -38,6 +40,10 @@ The system manages five main tables:
 - Part
 - Salesperson
 - Transaction
+
+## Video Demonstration
+[Video Demonstration](https://github.com/user-attachments/assets/38e6c5aa-9242-4eb9-8448-592630f4c3d0
+)
 
 ## Technical Requirements
 
