@@ -74,4 +74,5 @@ The system accepts tab-separated text files for data import:
 - category.txt
 - manufacturer.txt
 - part.txt
-- salesperson.tx
+- salesperson.txt
+- transaction.txt
