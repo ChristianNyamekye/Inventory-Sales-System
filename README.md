@@ -6,8 +6,7 @@
 - Daniel Gakpetor 
 
 ## Video Demonstration
-[Video Demonstration](demo_vid.mov)
-
+[Video Demonstration]
 ## Project Structure
 
 ### Library Dependencies
@@ -75,4 +74,4 @@ The system accepts tab-separated text files for data import:
 - manufacturer.txt
 - part.txt
 - salesperson.txt
-- transaction.txt
+- transaction
