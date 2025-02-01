@@ -1,8 +1,5 @@
 # Oracle-Based Inventory and Sales Management System (OISMS)
 
-
-
-
 ## Authors
 - Chan Tin Yik 
 - Christian Nyamekye 
